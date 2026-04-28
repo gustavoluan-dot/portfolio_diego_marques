@@ -43,7 +43,7 @@ Atualmente cursando Análise de Desenvolvimento de Sistemas período noturno na 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto ZaestraVitta** | Site de vendas de produtos de limpeza | [Acessar Link](https://lnkd.in/d3jYkC8Q) |
+| **Projeto ZaestraVitta** | Site de vendas de produtos de limpeza | [Acessar Link](Projeto-ZaestraVitta-main/Projeto-ZaestraVitta-main) |
 | **Projeto Verificador de Idade** | Site para verificar identidade de pessoas (genérico) | [Acessar Link](https://lnkd.in/dv9BpRDg) |
 | **Página inicial do projeto** | Interface responsiva para divulgar meu trabalho | [Acessar Link](https://lnkd.in/dv9BpRDg) |
 | **Projeto aplicativo Android** | Replicando site do aplicativo ANDROID para praticar HTML e CSS | [Acessar Link](https://github.com/gustavoluan-dot/review-project-android) |
