@@ -41,17 +41,13 @@ Atualmente cursando Análise de Desenvolvimento de Sistemas período noturno na 
  
 ### 📂 Portfólio de Projetos
 
-
-| Projeto ZaestraVitta | Site de vendas de produto de limpeza | Link -> https://lnkd.in/d3jYkC8Q | 
-
-| Projeto Verificador de Idade | Site para verificar identidade de pessoas (genérico) | Link -> https://lnkd.in/dv9BpRDg. |
-
-| Projeto Landing Page | Interface responsiva para divulgar meu trabalho | Link -> https://lnkd.in/dv9BpRDg. |
-
-| Projeto aplicativo Android | Replicando site do aplicativo ANDROID para praticar HTML & CSS | Link ->  https://github.com/gustavoluan-dot/review-project-android |
-
-| Projeto calculadora em C | Calculadora utilizando C | Link ->  https://github.com/gustavoluan-dot/review-project-android |
-
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projeto ZaestraVitta** | Site de vendas de produtos de limpeza | [Acessar Link](https://lnkd.in/d3jYkC8Q) |
+| **Projeto Verificador de Idade** | Site para verificar identidade de pessoas (genérico) | [Acessar Link](https://lnkd.in/dv9BpRDg) |
+| **Página inicial do projeto** | Interface responsiva para divulgar meu trabalho | [Acessar Link](https://lnkd.in/dv9BpRDg) |
+| **Projeto aplicativo Android** | Replicando site do aplicativo ANDROID para praticar HTML e CSS | [Acessar Link](https://github.com/gustavoluan-dot/review-project-android) |
+| **Projeto calculadora em C** | Calculadora utilizando C | [Acessar Link](https://github.com/gustavoluan-dot/review-project-android) |
  
 #### 🤖 Inteligência Artificial
 | Projeto Orça Fácil | é um painel inteligente que centraliza suas propostas comerciais, mostrando de forma rápida e organizada a situação de todos os seus orçamentos em uma única tela. | Link -> https://guluan232-34918.bubbleapps.io/version-test
