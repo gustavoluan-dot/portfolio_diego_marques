@@ -17,6 +17,9 @@ Desenvolvido com foco no aprimoramento da metacognição e das habilidades em En
 *Figura 3: Comparativo visual das interfaces geradas pelas diferentes IAs a partir do mesmo prompt, na imagem abaixo foi adicionado o site que DeepSeek fez.*
 ![Interface gerada pelo DeepSeek](imagem-do-site-deepseek.png)
 
+*Figura 4: Comparativo visual das interfaces geradas pelas diferentes IAs a partir do mesmo prompt, na imagem abaixo foi adicionado o site que Grok IA fez.*
+![Interface gerada pelo GROK IA](imagem-do-site-deepseek.png)
+
 
 
 
