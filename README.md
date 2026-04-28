@@ -51,9 +51,7 @@ Atualmente cursando Análise de Desenvolvimento de Sistemas período noturno na 
  
 #### 🤖 Inteligência Artificial
 
-
-
-| Projeto Orça Fácil | é um painel inteligente que centraliza suas propostas comerciais, mostrando de forma rápida e organizada a situação de todos os seus orçamentos em uma única tela. | Link -> https://guluan232-34918.bubbleapps.io/version-test
+! Projeto Engenharia com Bubble.io | Criando um aplicativo de Dashboard | Ver Link -> 
  
 
 
