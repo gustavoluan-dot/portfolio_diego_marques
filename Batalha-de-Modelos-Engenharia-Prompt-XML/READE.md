@@ -43,8 +43,9 @@ O experimento de submissão padronizada alcançou resultados sólidos para a com
 
 4. 
 *Figura 6: Representação da estrutura do prompt XML utilizado nos testes.*
-![Demonstração do Fluxo de Dados](IMAGEM_3_AQUI)
-
+![Demonstração do Fluxo de Dados](instrucao-1.png)
+![Demonstração do Fluxo de Dados](instrucao-2.png)
+![Demonstração do Fluxo de Dados](instrucao-3.png)
 
 ---
 [Voltar ao início](https://github.com/gustavoluan-dot/portfolio_gustavo_luan)
