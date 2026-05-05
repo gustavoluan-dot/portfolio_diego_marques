@@ -32,7 +32,7 @@ Atualmente, desempenho o papel de **Estagiário de Tecnologia na Project SA**, o
 ### 🏫 Atividades em Sala de Aula
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| Laboratório de Classificação Visual | Experimento prático de treinamento de modelo computacional para detecção de acessórios e análise de viés, incluindo o arquivo `trabalho diego.pdf`[cite: 1]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Laborat%C3%B3rio-Visual-principal/Laborat%C3%B3rio-Visual-principal) |
+|| Laboratório de Classificação Visual | Experimento prático de treinamento de modelo computacional para detecção de acessórios e análise crítica de viés, incluindo o arquivo `trabalho+diego.pdf`. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Laborat%C3%B3rio-Classifica%C3%A7%C3%A3o-Visual) | |
 | Engenharia de Prompt | Documentação de prática avançada focada em instruções de alta precisão para LLMs com refinamento iterativo. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/engenharia-de-prompt) |
 | Laboratório de Áudio | Composição de faixas musicais via IA generativa, explorando métrica, gênero e síntese de áudio estruturada. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/trabalho-musica) |
 | Engenharia de Software com Bubble.io | Desenvolvimento de aplicações No-Code com foco em dashboards e fluxos de dados. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Engenharia-de-Software-com-Bubble.io) |
