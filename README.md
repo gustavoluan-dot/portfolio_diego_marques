@@ -1,9 +1,9 @@
 # 👨‍💻 Gustavo Luan | Software Engineering & Tech Analysis
 
 ## 📝 Sobre Mim
-Profissional em ascensão na área de tecnologia, atualmente com 18 anos e cursando o **2º semestre de tecnologia na Universidade de São Paulo (USP)**, no período noturno. Minha atuação é focada na intersecção entre o desenvolvimento de software e a análise de dados, buscando sempre a eficiência algorítmica e a estruturação lógica de sistemas complexos.
+Profissional em ascensão na área de tecnologia, atualmente com 20 anos e cursando o **2º semestre de tecnologia (Análise e Desenvolvimento de Sistemas) na Universidade Cidade de São Paulo (UNICID)**, no período noturno. Minha atuação é focada na intersecção entre o desenvolvimento de software e a análise de dados, buscando sempre a eficiência algorítmica e a estruturação lógica de sistemas complexos.
 
-Atualmente, desempenho o papel de **Estagiário de Tecnologia na Diálogo & Engenharia**, onde aplico metodologias de automação e análise técnica para otimização de fluxos corporativos.
+Atualmente, desempenho o papel de **Estagiário de Tecnologia na Project SA**, onde aplico metodologias de automação e análise técnica para otimização de fluxos corporativos.
 
 ---
 
@@ -11,13 +11,11 @@ Atualmente, desempenho o papel de **Estagiário de Tecnologia na Diálogo & Enge
 
 ### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
