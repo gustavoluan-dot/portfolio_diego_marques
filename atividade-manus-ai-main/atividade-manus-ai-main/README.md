@@ -1,33 +1,32 @@
 # 💪 FitMeet — Treino Personalizado em Tempo Real
 
 <div align="center">
-  <img src="./preview/preview.png" alt="Interface FitMeet" width="900">
+  <img src="./preview/preview.png.png" alt="Interface FitMeet" width="900">
 </div>
 
 ## 📝 Descrição do Projeto
-O **FitMeet** é uma solução de videoconferência interativa desenvolvida para otimizar a experiência de treinos remotos. O projeto visa mitigar a fragmentação do ecossistema de treinamento online, onde usuários frequentemente alternam entre múltiplas aplicações para comunicação e monitoramento técnico.
+O **FitMeet** é uma solução de videoconferência interativa projetada para otimizar a experiência de treinamentos remotos[cite: 2]. O foco do desenvolvimento foi mitigar a fragmentação do ecossistema de treino online, unificando camadas de comunicação e monitoramento em uma interface centralizada[cite: 2].
 
 ### 🎯 O Problema que o FitMeet Resolve
-Atualmente, a experiência de treino online é fragmentada: alunos dependem de softwares de terceiros para vídeo, cronômetros externos para controle de tempo e registros manuais para contagem de repetições. O FitMeet unifica essas camadas em uma **interface única**, integrando vídeo em alta definição com ferramentas de controle de performance em tempo real.
+Atualmente, a experiência de treino à distância é fragmentada: o usuário depende de aplicações externas para vídeo, cronômetros independentes e registros manuais de performance[cite: 2]. O FitMeet consolida essas necessidades, integrando vídeo em alta definição com ferramentas de controle técnico em tempo real[cite: 2].
 
 ## 🚀 Tecnologias Utilizadas
-A arquitetura do projeto foi construída sobre um stack focado em performance mobile e comunicação de baixa latência:
+A arquitetura da solução utiliza um stack focado em estabilidade e baixa latência[cite: 2]:
 
-*   **Linguagem:** Kotlin
-*   **Android SDK:** Nível 34
-*   **Engine de Vídeo:** Jitsi Meet SDK 9.2.2 (via WebRTC)
-*   **Interface (UI):** Material Design 3
-*   **Estrutura de Dados:** ViewBinding para manipulação de layout
-*   **Processamento:** Handler/Runnable para gerenciamento de threads de cronômetro
-*   **Servidor de Sinalização:** meet.jit.si
+*   **Linguagem Principal:** Kotlin[cite: 2].
+*   **Android SDK:** Nível 34[cite: 2].
+*   **Comunicação de Vídeo:** Jitsi Meet SDK 9.2.2 (implementação WebRTC)[cite: 2].
+*   **Interface (UI):** Material Design 3 e ViewBinding[cite: 2].
+*   **Lógica de Sincronia:** Handler e Runnable para gerenciamento de threads do cronômetro[cite: 2].
+*   **Infraestrutura de Sinalização:** meet.jit.si[cite: 2].
 
-## 🛠️ Funcionalidades Principais
-*   **Módulo Lobby/Sala:** Sistema de gerenciamento de sessões para conexão segura entre instrutor e aluno.
-*   **Monitoramento Integrado:** Cronômetro e contador de repetições sobrepostos à camada de vídeo.
-*   **Comunicação HD:** Utilização de protocolos WebRTC para garantir estabilidade visual durante as séries.
+## 🏗️ Estrutura do Repositório
+A organização segue os padrões de projetos mobile estruturados[cite: 1]:
 
----
-**Desenvolvido como atividade prática por:** Gustavo Luan Araújo Santos.
-*Projeto estruturado sob a metodologia "Made with Manus".*
-
-[Voltar ao portfólio principal](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos)
+```text
+atividade-manus-ai-main/
+├── app/               ← Módulos de código fonte e lógica de negócio[cite: 1]
+├── preview/           ← Assets de visualização (preview.png.png)[cite: 1]
+├── gradle/wrapper/    ← Gerenciamento de dependências e build[cite: 1]
+├── build.gradle       ← Configurações globais de compilação[cite: 1]
+└── qrcode_preview.png ← Recurso de acesso rápido ao aplicativo[cite: 1]
